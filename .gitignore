@@ -1,0 +1,11 @@
+# Virtual environment
+virtual/
+
+# Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# Editor specific files
+.vscode/
+.idea/
+*.swp
